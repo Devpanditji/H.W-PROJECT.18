@@ -143,5 +143,6 @@ function fruits(){
     fruit.setLifetime=100;
     
     fruitGroup.add(fruit);
+    
   }
 }
