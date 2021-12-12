@@ -138,7 +138,7 @@ function fruits(){
     }
     
     fruit.y=Math.round(random(50,550));
-    fruit.X=Math.round(random(200,550));
+    
     
     fruit.setLifetime=100;
     
